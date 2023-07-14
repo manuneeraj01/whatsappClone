@@ -1,10 +1,17 @@
 <resources>
     <string name="app_name">whatsappClone</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment/nASDF is the sequence of letters that appear on the first four keys on the home row of a QWERTY or QWERTZ keyboard. They are often used as a sample or test case or as random, meaningless nonsense. It is also a common learning tool for keyboard classes, since all four keys are located on Home row.</string>
     <string name="enter_email">Enter Email</string>
     <string name="enter_password">Enter Password</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="sign_up">Sign Up</string>
     <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="about_us">About us</string>
+    <string name="logout">Logout</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="enter_status">Enter Status</string>
+    <string name="enter_name">Enter Name</string>
 </resources>
